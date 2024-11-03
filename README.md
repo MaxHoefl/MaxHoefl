@@ -8,3 +8,5 @@
 - 📫 How to reach me: syndikus(dot)max(at)pm.me
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxHoefl&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxHoefl)](https://github.com/MaxHoefl/github-readme-stats)
