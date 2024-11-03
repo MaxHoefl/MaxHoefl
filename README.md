@@ -7,4 +7,4 @@
 - 💬 Ask me about K8s, Azure, Python, web dev
 - 📫 How to reach me: syndikus(dot)max(at)pm.me
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxHoefl&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxHoefl&show_icons=true&theme=dark)
